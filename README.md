@@ -1,2 +1,2 @@
 # animated-waddle
-Concientización 
+Concientizació
